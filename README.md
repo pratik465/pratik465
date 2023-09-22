@@ -1,3 +1,15 @@
+<div align="center">
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;Hi i'm Kevin Monapara &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+</div>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Android%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=41bd0b&vCenter=true&pause=1000&size=22" /></a>
+</p>
+<h3 align="center">A passionate 
+Androiddeveloper from India</h3>
+<summary align="left">
+<img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F954826406720856084.gif%3Fv%3D1&w=64&q=75" width="30px"> ‎‎ <h2>About Me:</h2>
+  </summary>
+🔭 I’m currently working on Android Project<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Android Development<br>💬 Ask me about<br>⚡ Fun fact
 ### Hi there 👋
 
 <!--
